@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!-- This is the ES-DE find rules configuration file for Linux -->
+<ruleList>
+    <emulator name="CITRON">
+        <!-- Nintendo Switch emulator Citron -->
+        <rule type="systempath">
+            <entry>citron</entry>
+            <entry>Citron</entry>
+        </rule>
+        <rule type="staticpath">
+            <entry>~/Applications/*itron_*-x86_64.AppImage</entry>
+            <entry>~/.local/share/applications/*itron_*-x86_64.AppImage</entry>
+            <entry>~/.local/bin/*itron_*-x86_64.AppImage</entry>
+            <entry>~/bin/*itron_*-x86_64.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="EDEN">
+        <!-- Nintendo Switch emulator Eden -->
+        <rule type="systempath">
+            <entry>eden</entry>
+            <entry>Eden</entry>
+        </rule>
+        <rule type="staticpath">
+            <entry>~/Applications/*den-Linux-v*-*.AppImage</entry>
+            <entry>~/.local/share/applications/*den-Linux-v*-*.AppImage</entry>
+            <entry>~/.local/bin/*den-Linux-v*-*.AppImage</entry>
+            <entry>~/bin/*den-Linux-v*-*.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="SUDACHI">
+        <!-- Nintendo Switch emulator Eden -->
+        <rule type="systempath">
+            <entry>sudachi</entry>
+            <entry>Sudachi</entry>
+        </rule>
+        <rule type="staticpath">
+            <entry>~/Applications/*udachi</entry>
+            <entry>~/.local/share/applications/*udachi</entry>
+            <entry>~/.local/bin/*udachi</entry>
+            <entry>~/bin/*udachi</entry>
+        </rule>
+    </emulator>
+    <emulator name="SUYU">
+        <!-- Nintendo Switch emulator Eden -->
+        <rule type="systempath">
+            <entry>suyu</entry>
+            <entry>Suyu</entry>
+        </rule>
+        <rule type="staticpath">
+            <entry>~/Applications/*uyu-Linux_x86_64.AppImage</entry>
+            <entry>~/.local/share/applications/*uyu-Linux_x86_64.AppImage</entry>
+            <entry>~/.local/bin/*uyu-Linux_x86_64.AppImage</entry>
+            <entry>~/bin/*uyu-Linux_x86_64.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="YUZU">
+        <!-- Nintendo Switch emulator Yuzu -->
+        <rule type="systempath">
+            <entry>yuzu</entry>
+            <entry>Yuzu</entry>
+            <entry>org.yuzu_emu.yuzu</entry>
+        </rule>
+        <rule type="staticpath">
+            <entry>~/Applications/yuzu*.AppImage</entry>
+            <entry>~/.local/share/applications/yuzu*.AppImage</entry>
+            <entry>~/.local/bin/yuzu*.AppImage</entry>
+            <entry>~/bin/yuzu*.AppImage</entry>
+            <entry>/var/lib/flatpak/exports/bin/org.yuzu_emu.yuzu</entry>
+            <entry>~/.local/share/flatpak/exports/bin/org.yuzu_emu.yuzu</entry>
+        </rule>
+    </emulator>
+</ruleList>
