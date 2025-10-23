@@ -10,6 +10,8 @@ If files exist already, you may open the two files downloaded from this repo and
 
 Alternatively, you may use merging software (the Meld Flatpak can be installed from Discover) to merge the pre-existing files with the files downloaded from this repository. 
 
+If you are using EmuDeck, it is highly likely the `es_find_rules.xml` and `es_systems.xml` file will already be created. If you are struggling with merging these files with the files downloaded from this repository, reach out to EmuDeck for support. This repository **will not** provide support on merging these files. 
+
 ## Filename Conventions
 
 **Note:** Any `*` in the table below are wildcards. Wildcards are placeholders for version numbers or system specific file names. If you have a version number or a specific system name in your AppImage, you **do not** need to rename and remove these elements. 
