@@ -14,7 +14,7 @@ If you are using EmuDeck, it is highly likely the `es_find_rules.xml` and `es_sy
 
 ## Filename Conventions
 
-**Note:** Any `*` in the table below are wildcards. Wildcards are placeholders for version numbers or system specific file names. Wildcards are also used for case sensitivity. For example, both `Citron_*-x86_64.AppImage` and `Citron_*-x86_64.AppImage` are supported. If you have a version number or a specific system name in your AppImage, you **do not** need to rename and remove these elements. 
+**Note:** Any `*` in the table below are wildcards. Wildcards are placeholders for version numbers or system specific file names. Wildcards are also used for case sensitivity. For example, both `Citron_*-x86_64.AppImage` and `citron_*-x86_64.AppImage` are supported. If you have a version number or a specific system name in your AppImage, you **do not** need to rename and remove these elements. 
 
 | **System Name** | **Emulator**       | **Filename Configuration** |
 |-----------------|--------------------|----------------------------|
