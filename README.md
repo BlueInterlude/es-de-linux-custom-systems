@@ -16,11 +16,11 @@ Alternatively, you may use merging software (the Meld Flatpak can be installed f
 
 | **System Name** | **Emulator**       | **Filename Configuration** |
 |-----------------|--------------------|----------------------------|
-| switch          | Citron             | *itron_*-x86_64.AppImage   |
-| switch          | Eden               | *den-Linux-v*-*.AppImage   |
-| switch          | Ryujinx or Ryubing | *yujinx*.AppImage          |
-| switch          | Sudachi            | *udachi                    |
-| switch          | Suyu               | *uyu-Linux_x86_64.AppImage |
+| switch          | Citron             | \*itron_*-x86_64.AppImage   |
+| switch          | Eden               | \*den-Linux-v*-*.AppImage   |
+| switch          | Ryujinx or Ryubing | \*yujinx*.AppImage          |
+| switch          | Sudachi            | \*udachi                    |
+| switch          | Suyu               | \*uyu-Linux_x86_64.AppImage |
 | switch          | Yuzu               | yuzu*.AppImage             |
 
 
