@@ -21,6 +21,11 @@ If files exist already, you may open the two files downloaded from this repo and
 | switch          | Suyu               | *uyu-Linux_x86_64.AppImage |
 | switch          | Yuzu               | yuzu*.AppImage             |
 
+
 ## Issues
 
 This **is not** a support repository for these emulators. If an emulator is not working, report the issue to the emulator developers directly. If one of the downloaded files is misconfigured, you may open an issue or pull request on this repository. **Do not** link to the download page of the emulator in your GitHub issue. 
+
+## ES-DE Documentation
+
+Make sure that you have checked and read ES-DE's documentation if you are unclear on how to use these files. See https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md for ES-DE'S User Guide. 
