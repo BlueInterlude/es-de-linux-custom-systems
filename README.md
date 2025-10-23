@@ -1,6 +1,6 @@
 # es-de-linux-custom-systems
 
-Custom systems and find rules file for ES-DE primarily for Linux systems and the Steam Deck. 
+Custom systems and find rules files for ES-DE primarily for Linux systems and the Steam Deck. 
 
 ## How to Use
 
@@ -8,7 +8,7 @@ Download the `es_find_rules.xml` and `es_systems.xml` file and place the two fil
 
 If files exist already, you may open the two files downloaded from this repo and copy the contents to the pre-existing files. Ensure that you do not duplicate the header and closer lines. For `es_find_rules.xml`, the lines will be `<ruleList>` and `</ruleList>` respectively. For `es_systems.xml`, the lines will be `<systemList>` and `</systemList>` respectively. 
 
-Alternatively, you may use merging software (the Meld Flatpak can be installed from Discover) to merge the pre-existing files with the files downloaded from this repository. 
+Alternatively, you may use merging software (the Meld Flatpak can be installed from Discover/Flathub/Distro Package Manager) to merge the pre-existing files with the files downloaded from this repository. 
 
 If you are using EmuDeck, it is highly likely the `es_find_rules.xml` and `es_systems.xml` file will already be created. If you are struggling with merging these files with the files downloaded from this repository, reach out to EmuDeck for support. This repository **will not** provide support on merging these files. 
 
@@ -36,4 +36,4 @@ Make sure that you have checked and read ES-DE's documentation if you are unclea
 
 ## Affiliation
 
-This repository is in **no way** affiliated with the ES-DE team. The repository and files provided here are provided and created by another everyday ES-DE user. You may examine the files included this repository in any web browser by clicking on the respective files in the file list and validate their contents prior to downloading. 
+This repository is in **no way** affiliated with the ES-DE team. The repository and files provided here are provided and created by another everyday ES-DE user. You may examine the files included this repository in any web browser by clicking on the respective files in the file list and validating their contents prior to downloading. 
