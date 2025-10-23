@@ -33,3 +33,7 @@ This **is not** a support repository for these emulators. If an emulator is not 
 ## ES-DE Documentation
 
 Make sure that you have checked and read ES-DE's documentation if you are unclear on how to use these files. See https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md for ES-DE'S User Guide. 
+
+## Affiliation
+
+This repository is in **no way** affiliated with the ES-DE team. The repository and files provided here are provided and created by another everyday ES-DE user. You may examine the files included this repository in any web browser by clicking on the respective files in the file list and validate their contents prior to downloading. 
