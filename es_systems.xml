@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- This is the ES-DE game systems configuration file for Unix -->
+<systemList>
+    <system>
+        <name>switch</name>
+        <fullname>Nintendo Switch</fullname>
+        <path>%ROMPATH%/switch</path>
+        <extension>.nca .NCA .nro .NRO .nso .NSO .nsp .NSP .xci .XCI</extension>
+        <command label="Ryujinx (Standalone)">%EMULATOR_RYUJINX% %ROM%</command>
+        <command label="Citron (Standalone)">%INJECT%=%BASENAME%.prefix %EMULATOR_CITRON% -f -g %ROM%</command>
+        <command label="Eden (Standalone)">%INJECT%=%BASENAME%.prefix %EMULATOR_EDEN% -f -g %ROM%</command>
+        <command label="Sudachi (Standalone)">%INJECT%=%BASENAME%.prefix %EMULATOR_SUDACHI% -f -g %ROM%</command>
+        <command label="Suyu (Standalone)">%INJECT%=%BASENAME%.prefix %EMULATOR_SUYU% -f -g %ROM%</command>
+        <command label="Yuzu (Standalone)">%INJECT%=%BASENAME%.prefix %EMULATOR_YUZU% -f -g %ROM%</command>
+        <platform>switch</platform>
+        <theme>switch</theme>
+    </system>
+</systemList>
