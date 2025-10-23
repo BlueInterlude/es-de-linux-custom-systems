@@ -8,7 +8,7 @@ Download the `es_find_rules.xml` and `es_systems.xml` file and place the two fil
 
 If files exist already, you may open the two files downloaded from this repo and copy the contents to the pre-existing files. Ensure that you do not duplicate the header and closer lines. For `es_find_rules.xml`, the lines will be `<ruleList>` and `</ruleList>` respectively. For `es_systems.xml`, the lines will be `<systemList>` and `</systemList>` respectively. 
 
-Alternatively, you may use software like Meld (Flatpak can be installed from Discover) to merge pre-existing the files with the files downloaded from this repository. 
+Alternatively, you may use merging software (the Meld Flatpak can be installed from Discover) to merge the pre-existing files with the files downloaded from this repository. 
 
 ## Filename Conventions
 
