@@ -1,6 +1,6 @@
 # es-de-linux-custom-systems
 
-Custom systems and find rules file for ES-DE primarily for Linux systems and and the Steam Deck. 
+Custom systems and find rules file for ES-DE primarily for Linux systems and the Steam Deck. 
 
 ## How to Use
 
